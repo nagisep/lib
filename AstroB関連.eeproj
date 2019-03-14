@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--EmEditor Project file-->
+<Project>
+<Files>
+	<File RelativePath="astroB.cpp"/>
+	<File RelativePath="astroB.h"/>
+	<File RelativePath="sekki.cpp"/>
+	<File RelativePath="sekki.h"/>
+	<File RelativePath="sekkiMessageData.cpp"/>
+</Files>
+</Project>
